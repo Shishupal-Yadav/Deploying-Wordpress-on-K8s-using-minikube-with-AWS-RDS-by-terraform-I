@@ -11,9 +11,12 @@
 ###  In this project I have deployed the Wordpress on Minikube 
 ### And this  Wordpress application is  accessible from the public world if deployed on AWS or through workstation if deployed on Minikube.
 
-## What is Wordpress 
+ 
 
 ![alt text](https://s.w.org/images/backgrounds/wordpress-bg-medblue-square.png)
+
+
+## What is Wordpress
 
 ### At its core, WordPress is the simplest, most popular way to create your own website or blog. In fact, WordPress powers over 37.6% of all the websites on the Internet. Yes – more than one in four websites that you visit are likely powered by WordPress.
 
@@ -21,9 +24,13 @@
 
 ### The end result is that WordPress makes building a website accessible to anyone – even people who aren’t developers.
 
-## What is AWS RDS 
+
 
  ![alt text](https://geekylane.com/wp-content/uploads/2019/07/MYSQL-Database-on-Amazon-RDS.png)
+
+
+ ## What is AWS RDS 
+ 
  
  ### Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient and resizable capacity while automating time-consuming administration tasks such as hardware provisioning, database setup, patching and backups. It frees you to focus on your applications so you can give them the fast performance, high availability, security and compatibility they need.
 
