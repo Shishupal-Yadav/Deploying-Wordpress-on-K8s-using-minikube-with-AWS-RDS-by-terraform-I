@@ -227,3 +227,6 @@ resource "aws_db_instance" "mydb" {
 }
 ```
    
+***Step7***
+ - Now run ```kubectl get all ``` in your command prompt to get information about pods , service , deployment ,etc
+  ![alt text](images/get all.jpg) 
