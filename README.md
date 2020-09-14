@@ -234,3 +234,19 @@ resource "aws_db_instance" "mydb" {
 ***Step8***
 - After this run ```minikube ip``` to get the IP for Wordpress site and type ```IP:3306``` in your browser it lead us to the Wordpress site
 ![alt text](images/ip.jpg) 
+
+### Now here is the Worpress site
+  ![alt text](images/WP1.jpg) 
+  
+  ***Here we have to give any username and password***
+  ![alt text](images/WP2.jpg) 
+  
+  ***Now we can start blogging***
+  ![alt text](images/WP3.jpg)
+  
+  
+  ### Bravo!!! task completed
+  ![alt text](images/WP4.jpg) 
+  
+  
+  
