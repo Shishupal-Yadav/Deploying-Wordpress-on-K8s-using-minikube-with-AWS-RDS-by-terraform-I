@@ -39,7 +39,12 @@
 
 # Let's begin our project
 
-## First of all we have to login to AWS from our base OS with some user
+## First of aall we have to start minikube in our OS
+
+![alt text](images/MInikube.jpg)
+
+
+## After starting minikube  we have to login to AWS from our base OS with some user
 
 
  ![alt text](images/aws-profile.jpg)
