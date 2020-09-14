@@ -41,7 +41,7 @@
 # Prerequiste for this project
 - **Have an AWS account**
 -   **Have Minikube installed**
--   **Have erraform CLI installed**
+-   **Have terraform CLI installed**
 -  **Have AWS CLI installed**
   
 
@@ -245,7 +245,7 @@ resource "aws_db_instance" "mydb" {
   ![alt text](images/WP3.jpg)
   
   
-  ### Bravo!!! task completed
+  ### Bravo!!! Task Completed
   ![alt text](images/WP4.jpg) 
   
   
