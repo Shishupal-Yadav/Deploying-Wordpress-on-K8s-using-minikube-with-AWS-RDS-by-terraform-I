@@ -39,10 +39,10 @@
 
 # Let's begin our project
 # Prerequiste for this project
-  **Have an AWS account**
-  **Have Minikube installed**
-  **Have erraform CLI installed**
-  **Have AWS CLI installed**
+- **Have an AWS account**
+-   **Have Minikube installed**
+-   **Have erraform CLI installed**
+-  **Have AWS CLI installed**
   
 
 
