@@ -229,4 +229,8 @@ resource "aws_db_instance" "mydb" {
    
 ***Step7***
  - Now run ```kubectl get all ``` in your command prompt to get information about pods , service , deployment ,etc
-  ![alt text](images/get all.jpg) 
+  ![alt text](images/getall.jpg) 
+
+***Step8***
+- After this run ```minikube ip``` to get the IP for Wordpress site and type ```IP:3306``` in your browser it lead us to the Wordpress site
+![alt text](images/ip.jpg) 
