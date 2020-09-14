@@ -36,3 +36,8 @@
 
 ### Amazon RDS is available on several database instance types - optimized for memory, performance or I/O - and provides you with six familiar database engines to choose from, including Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle Database, and SQL Server. You can use the AWS Database Migration Service to easily migrate or replicate your existing databases to Amazon RDS.
 
+
+#### First of all we have to login to AWS from our base OS with some user
+
+
+ ![alt text](images/aws-profile)
