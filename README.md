@@ -110,7 +110,7 @@
       }
  ```
  ***Step3***
-  -  Now here we provide the information , where(i.e Minikube ) we want to launch Kubernetes 
+  -  Now here we provide the information , where(i.e Minikube ) we want to launch Wordpress
 ```
 provider "kubernetes" {
   config_context_cluster   = "minikube"
@@ -202,6 +202,7 @@ resource "kubernetes_service" "mylb" {
 ***Step6***
    - Now here is our database in AWS
    
+  ![alt text](images/DB.jpg) 
 ```
 resource "aws_db_instance" "mydb" {
   depends_on = [aws_security_group.rds] 
